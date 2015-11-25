@@ -1,0 +1,20 @@
+package liniks;
+
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxProfile;
+import org.openqa.selenium.firefox.internal.ProfilesIni;
+
+public class linktest15 {
+
+	public static void main(String[] args) {
+		ProfilesIni PR=new ProfilesIni();
+		FirefoxProfile FP=PR.getProfile("MY PROFILE");
+		FirefoxDriver driver=new FirefoxDriver(fp);
+		driver.get("https://www.expedia.co.in");
+		
+		
+		
+
+	}
+
+}

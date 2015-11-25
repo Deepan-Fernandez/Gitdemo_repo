@@ -1,0 +1,32 @@
+package liniks;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxProfile;
+import org.openqa.selenium.firefox.internal.ProfilesIni;
+
+import com.thoughtworks.selenium.webdriven.commands.GetAlert;
+
+public class linktest16 {
+	public static void main(String[]args){
+		ProfilesIni pr=new ProfilesIni();
+		FirefoxProfile fp=pr.getProfile("myprofile");
+		FirefoxDriver driver=new FirefoxDriver(fp);
+		driver.get("https://www.expedia.co.in");
+		driver.findElement(By.id("primary-header-bus")).click();
+		driver.findElement(By.Id("SelectCity1")).click();
+		driver.findElement(By.id)("SelectCity2")).click();
+		
+		WebElement drop=driver.f
+		
+		System.out.println();
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

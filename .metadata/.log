@@ -1,0 +1,104 @@
+!SESSION 2015-09-15 09:29:19.015 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-09-15 09:31:52.031
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Lab5'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.salesforce.ide.core 2 0 2015-09-15 10:19:59.706
+!MESSAGE  WARN [2015-09-15 10:19:59,679] (ConnectionFactory.java:clearCache:217) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-09-15 10:19:59.731
+!MESSAGE  WARN [2015-09-15 10:19:59,730] (DescribeObjectRegistry.java:clearCache:661) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-09-15 10:19:59.732
+!MESSAGE  WARN [2015-09-15 10:19:59,731] (MetadataFactory.java:clearCache:126) - No cached metadata stubs
+
+!SESSION 2015-09-15 10:24:23.961 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-09-15 10:24:42.966
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Lab5'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.salesforce.ide.core 2 0 2015-09-15 14:42:11.409
+!MESSAGE  WARN [2015-09-15 14:42:10,317] (ConnectionFactory.java:clearCache:217) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-09-15 14:42:11.439
+!MESSAGE  WARN [2015-09-15 14:42:11,438] (DescribeObjectRegistry.java:clearCache:661) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-09-15 14:42:11.440
+!MESSAGE  WARN [2015-09-15 14:42:11,439] (MetadataFactory.java:clearCache:126) - No cached metadata stubs
+
+!SESSION 2015-09-15 14:42:19.638 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-09-15 14:43:19.551
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Lab5'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.salesforce.ide.core 2 0 2015-09-15 15:44:31.302
+!MESSAGE  WARN [2015-09-15 15:44:31,259] (ConnectionFactory.java:clearCache:217) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-09-15 15:44:31.303
+!MESSAGE  WARN [2015-09-15 15:44:31,302] (DescribeObjectRegistry.java:clearCache:661) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-09-15 15:44:31.305
+!MESSAGE  WARN [2015-09-15 15:44:31,304] (MetadataFactory.java:clearCache:126) - No cached metadata stubs
+
+!SESSION 2015-09-16 15:19:08.074 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-09-16 15:19:40.143
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Lab5'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.salesforce.ide.core 2 0 2015-09-16 15:20:36.921
+!MESSAGE  WARN [2015-09-16 15:20:36,867] (ConnectionFactory.java:clearCache:217) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-09-16 15:20:36.923
+!MESSAGE  WARN [2015-09-16 15:20:36,921] (DescribeObjectRegistry.java:clearCache:661) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-09-16 15:20:36.924
+!MESSAGE  WARN [2015-09-16 15:20:36,923] (MetadataFactory.java:clearCache:126) - No cached metadata stubs
+

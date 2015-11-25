@@ -1,0 +1,46 @@
+package liniks;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxProfile;
+import org.openqa.selenium.firefox.internal.ProfilesIni;
+
+import com.thoughtworks.selenium.webdriven.commands.GetAlert;
+
+public class linktest16 {
+	public static void main(String[]args){
+		ProfilesIni pr=new ProfilesIni();
+		FirefoxProfile fp=pr.getProfile("myprofile");
+		FirefoxDriver driver=new FirefoxDriver(fp);
+		driver.get("https://www.newtours.demoaut.com");
+				
+		driver.findElement(By.linkText("REGISTER")).click();
+		driver.findElement(By.tagName("Country")).click();
+		List<WebElement> dropdown=dropdown.findElements(By.tagName("option"));
+	
+		System.out.println(dropdown.size());
+		for(int i=0;i<dropdown.size();i++)
+			
+		{
+			
+			dropdown.get(i).click();
+			
+			if(dropdown.get(i).isSelected())
+		
+			{
+				System.out.println(dropdown.get(i).getText()+"is active");
+			}
+			else
+			{
+				System.out.println(dropdown.get(i).getText()+"is not active");
+			}
+		System.out.println("");
+		}
+		
+				
+	}
+
+}
